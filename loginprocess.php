@@ -16,7 +16,7 @@ if(isset($_POST["submit"])){
     }
 }
 else{
-    echo "Invalid input";
+    echo "Invalid input supplied";
 }
 }
 else{
